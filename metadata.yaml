@@ -1,11 +1,16 @@
 _repo: The-Violin-and-Old-Violin-Makers-Being-a-Historical-Biographical-Account-of-the-Violin-with-F__53785
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53785-h/images/cover.jpg
 creator:
   author:
     agent_name: Clarke, A. Mason
     gutenberg_agent_id: '47535'
     url: http://www.gutenberg.org/2009/agents/47535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53785#The-Violin-and-Old-Violin-Makers-Being-a-Historical-Biographical-Account-of-the-Violin-with-F_
 gutenberg_issued: '2016-12-21'
 gutenberg_type: Text
 identifiers:
