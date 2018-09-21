@@ -1,0 +1,24 @@
+_repo: The-Violin-and-Old-Violin-Makers-Being-a-Historical-Biographical-Account-of-the-Violin-with-F__53785
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clarke, A. Mason
+    gutenberg_agent_id: '47535'
+    url: http://www.gutenberg.org/2009/agents/47535
+description: ''
+gutenberg_issued: '2016-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Violin makers'
+- !lcsh 'Violin -- History'
+- GITenberg
+title: "The Violin and Old Violin Makers\r\nBeing a Historical & Biographical Account\
+  \ of the Violin, with Facsimiles of Labels of the Old Makers"
+url: http://www.gutenberg.org/ebooks/53785
